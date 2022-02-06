@@ -22,4 +22,5 @@ public class CommonResult <T>{
     }
 
     private String ss;
+    private String vs;
 }
